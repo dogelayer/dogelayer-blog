@@ -1,6 +1,6 @@
 baseURL = 'https://blog.dogelayer.org/'
 languageCode = 'en-us'
-title = 'DogeLayer makes Dogecoin great again'
+title = 'Doge Layer'
 theme = "paper"
 
 [params]
@@ -16,9 +16,9 @@ github = 'dogelayer'   # github.com/YOUR_GITHUB_ID
 rss = true # show rss icon
 
 # home page profile
-avatar = 'wind@dogelayer.org'                   # gravatar email or image url
-name = 'DogeLayer Developer Log'
-bio = 'We are building the layer 2 of Dogecoin'
+avatar = 'wind@dogelayer.org'                # gravatar email or image url
+name = "Developer's Log"
+bio = 'DogeLayer makes Dogecoin great again'
 
 
 # misc

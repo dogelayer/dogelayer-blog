@@ -3,7 +3,7 @@ title = 'Web3.py Quick Test'
 date = 2024-01-02T11:52:31+08:00
 +++
 Web3.py is a python interface for interacting with the Ethereum compatible blockchain.  
-Dogelayer will build a Dogecoin L2 based on go-ethereum, so we need to known how to access it.  
+Dogelayer will build a Dogecoin L2 based on go-ethereum, so we need to know how to access it.  
 
 ## Install
 We need 3.7.2 or higher version of Python and using pip to install Web3.py:  
